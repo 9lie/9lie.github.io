@@ -12,8 +12,8 @@ local_backend: true
 publish_mode: editorial_workflow
 
 # 全局静态文件上传目录
-media_folder: "static/img/uploads" # Media files will be stored in the repo under images/uploads
-public_folder: "/img/uploads" # The src attribute for uploaded media will begin with /images/uploads
+media_folder: "static/assets" # Media files will be stored in the repo under images/uploads
+public_folder: "/assets" # The src attribute for uploaded media will begin with /images/uploads
 
 media_folder_relative: true
 
