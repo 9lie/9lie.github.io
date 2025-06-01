@@ -21,7 +21,7 @@ collections:
   - name: "post" # Used in routes, e.g., /admin/collections/blog
     label: "Post" # Used in the UI
     folder: "content/posts" # The path to the folder where the documents are stored
-    path: "{{slug}}/index" # beta feature
+    # path: "{{slug}}/index" # beta feature
     # adding a nested object will show the collection folder structure
     nested:
       depth: 100 # max depth to show in the collection tree
