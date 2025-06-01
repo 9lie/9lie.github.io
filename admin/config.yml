@@ -22,8 +22,6 @@ collections:
     label: "Post" # Used in the UI
     folder: "content/posts" # The path to the folder where the documents are stored
     path: "{{slug}}/index" # beta feature
-    media_folder: ""
-    public_folder: ""
     # adding a nested object will show the collection folder structure
     nested:
       depth: 100 # max depth to show in the collection tree
