@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on LIE's Blog</title><link>https://example.org/posts/</link><description>Recent content in Posts on LIE's Blog</description><generator>Hugo -- 0.147.6</generator><language>en-us</language><lastBuildDate>Wed, 28 May 2025 00:31:29 +0800</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>https://example.org/posts/hello-world/</link><pubDate>Wed, 28 May 2025 00:31:29 +0800</pubDate><guid>https://example.org/posts/hello-world/</guid><description>&lt;p>将之前的博客重新整理了一下，并且重新部署了一下。&lt;/p>
+&lt;p>That&amp;rsquo;s all!&lt;/p></description></item><item><title>兴趣与自学</title><link>https://example.org/posts/interests-and-self-learning/</link><pubDate>Fri, 28 Dec 2018 02:36:00 +0800</pubDate><guid>https://example.org/posts/interests-and-self-learning/</guid><description>&lt;p>最近想学的东西很多，但是却没有什么时间，主要是有其他更重要的事情要去做。于是就会想着每天 1 小时，然后每天坚持，坚持个一年，就可以成为成为大佬了。但是，虽然一直都有过这样的想法，却从来没有成功过。回想起来，我那些成功的自学，都是使用了大块大块的时间。&lt;/p>
+&lt;p>曾经我的英语很烂，非常烂（虽然现在也不怎么样）。我也曾经想过很多解决办法，在网上找了许多学习英语的技巧，也给自己定下许多的计划。比如什么睡前背单词，再比如通过坚持听 EnglishPod 来提高自己的英语水平。这些每天花费时间不多，但是需要长期坚持的做法最终都没有成功。直到后来高二，我明白了英语的重要性（生活上的和高考中的都有），便下定决心学好英语。而我的方法非常简单，就是做阅读理解。一篇一篇地做，不会的单词就去查，然后记在那本练习册上。由于是内宿生，并且学校不允许使用手机，单词只能一个一个查词典。一开始的时候一篇简单的文章要读大半天。高二的那段时间，我的夜自修大半的时间都是用在英语上的，也正是这一年，让我从一个一直为英语发愁的人，变成了以英语为优势学科的人。&lt;/p>
+&lt;p>现在回想起来真的很神奇。不知不觉英语就变好了，而且这也让我在后来高三时不用在英语上花太多时间。这中间的改变其实就是以前分散学习改成了集中大量时间学习，并且把这个作为主要目标对待。或许这才是从零基础到入门进阶的最有效的方法。到了有一定的基础以后，才能用零碎时间来慢慢提高。这其实是一个非常简单的道理，但是我自己总是没有去注意。&lt;/p>
+&lt;p>再比如到目前为止我都没有入门还是零基础的记忆术，日语，绘画，音乐制作，写作等这些我一直十分想学的技能。这些技能一般都是在哪里看见什么视频然后就激发自己的兴趣，觉得自己也要成为这样的人。但是想了一想这和自己目前学的东西冲突，自己又不可能把这些作为自己的主要学习目标，于是就想了一些折中的办法，每天自学一点日语，一两年后就可以看生肉了。但是最近发现这是非常不实际的，那是因为我没有把这个当做主要目标，这样学习的话随着时间的推移，热情减弱之后，效率会大大下降。另一方面，没有系统的学习，很难掌握知识的框架，容易学了就忘（这点是对我自己来说的）。&lt;/p>
+&lt;p>在最开始的时候，我一般是看到某个大佬的视频，觉得他很厉害，于是我也想和他一样。在这种情况下自学基本上是没有什么成功的可能。一般我觉得很厉害就真的是非常厉害，这也就是说，我一开始就把内心的期望放得很高（比如一位非常厉害的画手可以用一两个小时就话一副非常好看的画）。这样我在自学的过程中，由于目标的遥不可及，我的热情就会慢慢下降，最终放弃。&lt;/p>
+&lt;p>但是如果降低了目标，那么我就基本上不会有什么兴趣去学了。这是一个十分矛盾的事情。目前自己想到的解决办法就是让自己把这个目标当做是自己主要的目标，并对自己进行系统的学习，这才是最高效的解决办法。不过时间是有限的，要这样做必须要有很大的决心。就像我的高二一样，认识到英语对我自己很重要，将英语作为主要目标，英语也就提高了。&lt;/p>
+&lt;p>那么，哪些其他兴趣目标可以作为现在的我的主要目标呢？&lt;/p>
+&lt;p>&lt;strong>没有！&lt;/strong>&lt;/p>
+&lt;p>我现在作为一位未来的可能的 ACMer，怎么可能有时间。所以这一篇文只是来提醒自己，不要想哪些有的没的，学好算法多刷题才是王道。&lt;/p>
+&lt;p>That’s all!&lt;/p></description></item><item><title>第一篇博客</title><link>https://example.org/posts/first-blog/</link><pubDate>Wed, 26 Dec 2018 14:22:39 +0800</pubDate><guid>https://example.org/posts/first-blog/</guid><description>&lt;p>经过千辛万苦（并没有），终于弄好了这个博客。使用的是 &lt;strong>hexo&lt;/strong> 自带的 &lt;strong>landscape&lt;/strong> 主题，连主题自带的那张背景图都懒得去换，如果以后有时间就会不断改进这个博客的外观吧（不存在的）。&lt;/p>
+&lt;h2 id="接下来可能的计划有">接下来可能的计划有：&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>一点一点去修改这个博客&lt;/p>
+&lt;p>目前还没有什么修改的方向，比如把背景图换了？其实在看 hexo 的教程大都会让你去用一个叫 &lt;strong>next&lt;/strong> 的主题。但是一向不愿意和一般人一样的我怎么可能会用呢（于是就用了一个更 low 的默认主题？）。主要是这个主题看太多人用了，而且很久以前就很想自己学习一下网站设计。不过就是不知道时间允不允许了。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>写一下博客&lt;/p>
+&lt;p>虽然我知道除了我自己以外不会有人看的，但是还是想从现在开始 &lt;strong>养成写博客的习惯&lt;/strong> （flag）。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>学习算法和刷题&lt;/p>
+&lt;p>估计以后题解是不会放在这边，都是放在 github 上。这边可能会放一些做题的感受或者是解题技巧之类的东西吧。&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>that’s all!&lt;/p></description></item></channel></rss>
