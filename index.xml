@@ -1,4 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>LIE's Blog</title><link>https://9lie.github.io/</link><description>Recent content on LIE's Blog</description><generator>Hugo -- 0.147.6</generator><language>en-us</language><lastBuildDate>Wed, 28 May 2025 00:31:29 +0800</lastBuildDate><atom:link href="https://9lie.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>https://9lie.github.io/posts/hello-world/</link><pubDate>Wed, 28 May 2025 00:31:29 +0800</pubDate><guid>https://9lie.github.io/posts/hello-world/</guid><description>&lt;p>将之前的博客重新整理了一下，并且重新部署了一下。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>LIE's Blog</title><link>https://9lie.github.io/</link><description>Recent content on LIE's Blog</description><generator>Hugo -- 0.147.6</generator><language>en-us</language><lastBuildDate>Sun, 27 Jul 2025 23:49:00 +0800</lastBuildDate><atom:link href="https://9lie.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>周记 - 轻松但无聊的一周</title><link>https://9lie.github.io/posts/20250727/</link><pubDate>Sun, 27 Jul 2025 23:49:00 +0800</pubDate><guid>https://9lie.github.io/posts/20250727/</guid><description>&lt;p>本周相对之前一个月，轻松了很多，没有那么多事情。之前和 mt 诉苦之后，mt 相比之前没有那么 push 了。另外因为上一个项目完成了，事情相对就轻松了一些。&lt;/p>
+&lt;h2 id="从混沌中归来">从混沌中归来&lt;/h2>
+&lt;p>因为之前工作上的项目，我的早睡早起（23:00 ~ 6:30）的计划被打破了，而本周自己又沉迷在看B站视频直播。虽然自己没有玩过相关的游戏，但是看着很多主播为了目标一起准备，一起努力的互动过程真的很让人沉迷。也许这是一种心理上的补偿，因为现实中缺少交际，所以会通过这种方式来代偿心理上的空缺？现在在一点一点戒掉刷视频的习惯，并尝试重新掌控自己的生活。周六已经切换回早起的作息，希望可以重新坚持下去。&lt;/p>
+&lt;p>同样被抛弃的习惯，还有阅读。已经有两周对阅读这件事情提不起兴趣了。现在也重新尝试找回自己之前阅读的感觉。&lt;/p>
+&lt;h2 id="用日记保持思考">用日记保持思考&lt;/h2>
+&lt;p>自己有时候有很多思考，但是从未记录下来。这样导致很多思考并没有留下有用的内容，并且因为自己很少写作，表达能力和写作水平都很差。&lt;/p>
+&lt;p>最近看了一些关于写日记的好处的视频，有两个点感触很深。一个是可以记录每天让你印象最深的一件事，一件最有故事性的事情。这样可以让你以后回顾自己的日记时，会想起哦原来这件事时当时发生的，不至于觉得自己的时间白过了。另外一点就是，写日记时对自己生活的复盘和对未来规划的思考。很多想法和困扰只在脑中想着，不如写下来。这样自己能更清晰的看清自己的问题，减少内耗。&lt;/p>
+&lt;p>所以，后续自己会尝试多写博客，这个博客除了自己的几位大学同学可能知道我有这么一个博客外，无人知晓。将这个博客作为自己写日记的地方，记录自己遇到的事情 + 对过去未来的思考。&lt;/p>
+&lt;h2 id="与-ai-对话">与 AI 对话&lt;/h2>
+&lt;p>虽然自己很久没有进行写作了，但是和 ai 的交流是一直都有的。而且和 ai 的交流对自己的思考非常有帮助。日常经常用的 chatbot 有 3 家：deepseek r1，kimi k2，豆包。其中豆包基本作为了自己对于搜索引擎的替代品，大部分技术问题直接找豆包了。而另外两个主要是作为自己进行自我反思时的工具。&lt;/p>
+&lt;p>为什么不使用国外的更先进的模型？主要原因还是因为要钱 + 封号，并且自己需要做的事情，并不需要那么强大的模型，在我看来国内的模型已经够用了。另外我的使用场景不涉及敏感内容，也不担心回答不上来。&lt;/p>
+&lt;p>为什么不自己用客户端 + api 接入？其实之前是尝试过的，最后发现没有直接使用官网的 chatbox 方便。如果使用自己的客户端，其实只是想保存数据 + 对自己数据隐私的考虑。但我发现自己的对话数据自己帮我思考的一个中间内容，最终有价值的，还是自己写出来的内容。这也是为什么开始写博客的原因。&lt;/p>
+&lt;p>其实，还有一个开始写作的原因：希望可以多保留自己的一些写作素材，可以供 ai 训练。后面可以让ai 自己帮我写我自己风格的文章。&lt;/p>
+&lt;h2 id="其他小事">其他小事&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>做长期决策的时候，需要多考虑。例如最近买了一大箱泡面，吃了几盒就不想吃了，很后悔。应该先买几次散装的，如果几次后还觉得好吃再买。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>一个失业一年多的很好的朋友，最近好像要开始做抖音号了。希望他一切顺利吧。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>最近感觉身体变差了，不开空调也不觉得热，反而吹风扇会身体会舒服一些。吹空调肠胃会不舒服。&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Hello World</title><link>https://9lie.github.io/posts/hello-world/</link><pubDate>Wed, 28 May 2025 00:31:29 +0800</pubDate><guid>https://9lie.github.io/posts/hello-world/</guid><description>&lt;p>将之前的博客重新整理了一下，并且重新部署了一下。&lt;/p>
 &lt;p>这句是用来测试一下在线 CMS 编辑。&lt;/p>
 &lt;p>That&amp;rsquo;s all!&lt;/p></description></item><item><title>兴趣与自学</title><link>https://9lie.github.io/posts/interests-and-self-learning/</link><pubDate>Fri, 28 Dec 2018 02:36:00 +0800</pubDate><guid>https://9lie.github.io/posts/interests-and-self-learning/</guid><description>&lt;p>最近想学的东西很多，但是却没有什么时间，主要是有其他更重要的事情要去做。于是就会想着每天 1 小时，然后每天坚持，坚持个一年，就可以成为成为大佬了。但是，虽然一直都有过这样的想法，却从来没有成功过。回想起来，我那些成功的自学，都是使用了大块大块的时间。&lt;/p>
 &lt;p>曾经我的英语很烂，非常烂（虽然现在也不怎么样）。我也曾经想过很多解决办法，在网上找了许多学习英语的技巧，也给自己定下许多的计划。比如什么睡前背单词，再比如通过坚持听 EnglishPod 来提高自己的英语水平。这些每天花费时间不多，但是需要长期坚持的做法最终都没有成功。直到后来高二，我明白了英语的重要性（生活上的和高考中的都有），便下定决心学好英语。而我的方法非常简单，就是做阅读理解。一篇一篇地做，不会的单词就去查，然后记在那本练习册上。由于是内宿生，并且学校不允许使用手机，单词只能一个一个查词典。一开始的时候一篇简单的文章要读大半天。高二的那段时间，我的夜自修大半的时间都是用在英语上的，也正是这一年，让我从一个一直为英语发愁的人，变成了以英语为优势学科的人。&lt;/p>
